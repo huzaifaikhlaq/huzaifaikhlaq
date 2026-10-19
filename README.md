@@ -1,118 +1,173 @@
+
+<div align="center">
+
 # Hi, I'm Huzaifa Ikhlaq 👋
 
-### MERN Stack Developer | Full-Stack Web Developer
+### Full-Stack Developer | MERN Stack | React.js & Node.js
 
-I’m a Full-Stack Developer at **WODWES LLC**, focused on building responsive web applications, scalable backend APIs, and reliable database-driven systems.
+Building scalable web applications, robust backend systems, and seamless user experiences.
 
-I work primarily with the MERN stack and enjoy solving practical development problems, improving API performance, and building maintainable applications.
+[![Portfolio](https://img.shields.io/badge/Featured_Project-VOIRE-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://clothing-website-frontend-opal.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-huzaifaikhlaq-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huzaifaikhlaq)
+[![Company](https://img.shields.io/badge/Company-WODWES_LLC-0A66C2?style=for-the-badge)](https://wodwes.com/)
 
-- 💼 **Currently working at:** [WODWES LLC](https://wodwes.com/)
-- 🌱 **Currently exploring:** Next.js, backend scalability, and production deployment workflows
-- 🔧 **Core focus:** Full-stack development, REST APIs, authentication, caching, and performance optimization
-- 🚀 **Featured project:** VOIRE — a fashion brand website with a full-stack backend
-- 📍 **Location:** Faisalabad, Pakistan
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+I'm **Huzaifa Ikhlaq**, a Full-Stack Developer at **[WODWES LLC](https://wodwes.com/)**, specializing in developing modern, responsive, and maintainable web applications using the **MERN stack**.
+
+My work spans frontend development, RESTful API architecture, authentication systems, database design, and backend optimization.
+
+I enjoy turning complex requirements into practical software solutions, with particular attention to clean code, performance, security, and long-term maintainability.
+
+- 💼 **Current Role:** Full-Stack Developer at WODWES LLC
+- 💻 **Specialization:** MERN Stack Development
+- ⚙️ **Backend Focus:** REST APIs, authentication, caching, and database optimization
+- 🚀 **Featured Project:** VOIRE, a full-stack fashion eCommerce application
+- 🌱 **Currently Learning:** Next.js, scalable system architecture, and deployment best practices
+- 📍 **Based In:** Faisalabad, Pakistan
+- 🤝 **Open To:** Collaboration, open-source contributions, and development opportunities
+
+---
+
+## 🛠️ Technical Skills
 
 ### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,redux,tailwind,html,css,vite&theme=dark" alt="Frontend technologies" />
+</p>
+
+**Core Skills:** React.js, JavaScript (ES6+), Redux Toolkit, Tailwind CSS, HTML5, CSS3, Vite, Responsive Design
 
 ### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Authentication & Media
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-### Tools & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 1. VOIRE — Fashion Brand Website
-
-A fashion brand website built with a React frontend and a Node.js/Express backend, supported by MongoDB and additional backend services.
-
-**Key implementation areas:**
-- RESTful API development with Node.js and Express
-- MongoDB data modeling with Mongoose
-- JWT authentication and Google sign-in
-- Product, category, collection, cart, and order workflows
-- Cloudinary image management
-- Redis caching and rate limiting
-- Docker-based local development
-- Frontend and backend deployment on Vercel
-
-**Tech:** React, Vite, Tailwind CSS, Redux Toolkit, Node.js, Express, MongoDB, Redis, Docker, Cloudinary
-
-🔗 [Live Website](https://clothing-website-frontend-opal.vercel.app/)  
-💻 [Frontend Repository](https://github.com/huzaifaikhlaq/clothing-website-frontend)  
-⚙️ [Backend Repository](https://github.com/huzaifaikhlaq/clothing-website-backend)
-
-### 2. WODWES — Professional Development Work
-
-I work on web development tasks at WODWES LLC, applying my frontend and backend skills to practical software development.
-
-🔗 [WODWES Website](https://wodwes.com/)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifaikhlaq&show_icons=true&theme=tokyonight&hide_border=true" alt="Huzaifa's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaikhlaq&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark" alt="Backend technologies" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=huzaifaikhlaq&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+**Core Skills:** Node.js, Express.js, MongoDB, Mongoose, RESTful APIs, Redis, API Development
+
+### Authentication & Cloud Services
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 </p>
+
+**Core Skills:** JWT Authentication, Google OAuth, Authorization, Cloudinary Media Management, API Security
+
+### Development Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman&theme=dark" alt="Development tools" />
+</p>
+
+**Core Skills:** Git, GitHub, Docker, Vercel, VS Code, API Testing, Version Control
 
 ---
 
-## 🎯 Current Goals
+## 🚀 Featured Project
 
-- Strengthen my skills in scalable backend architecture.
-- Improve API performance through caching and efficient database queries.
-- Develop production-ready applications using Docker and modern deployment practices.
-- Expand my frontend development skills with Next.js.
-- Continue improving code quality, security, and maintainability.
+### 🛍️ VOIRE | Full-Stack Fashion eCommerce Platform
+
+**VOIRE** is a full-stack fashion eCommerce application designed to combine an intuitive shopping experience with structured backend functionality.
+
+The application uses a React-based frontend and a Node.js/Express backend, with MongoDB for persistent data storage and Redis for backend optimization.
+
+#### Key Features & Implementation
+
+- **Full-Stack Architecture:** Separate frontend and backend applications connected through RESTful APIs.
+- **Authentication & Authorization:** JWT-based authentication and Google OAuth integration.
+- **eCommerce Functionality:** Product catalogs, categories, collections, shopping carts, and order workflows.
+- **Database Management:** MongoDB with Mongoose schemas and structured data models.
+- **Caching & API Protection:** Redis integration for caching and rate-limiting functionality.
+- **Media Management:** Cloudinary integration for product image storage and delivery.
+- **Containerized Development:** Docker-based local development environment.
+- **Deployment:** Frontend and backend deployed using Vercel.
+
+#### Technology Stack
+
+`React` `Vite` `Redux Toolkit` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Mongoose` `Redis` `Docker` `Cloudinary`
+
+#### Explore the Project
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Application-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://clothing-website-frontend-opal.vercel.app/)
+[![Frontend](https://img.shields.io/badge/Frontend-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huzaifaikhlaq/clothing-website-frontend)
+[![Backend](https://img.shields.io/badge/Backend-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huzaifaikhlaq/clothing-website-backend)
+
+---
+
+## 💼 Professional Experience
+
+### Full-Stack Developer | WODWES LLC
+
+**Current Position**
+
+Working on modern web development solutions with a focus on frontend implementation, backend functionality, and maintainable application architecture.
+
+**Areas of Focus:**
+
+- Developing responsive interfaces using React.js and modern CSS frameworks.
+- Building and integrating RESTful APIs with Node.js and Express.js.
+- Working with MongoDB databases and backend data models.
+- Implementing authentication, API validation, and application security practices.
+- Debugging, optimizing, and maintaining web application functionality.
+- Applying version control and structured development workflows.
+
+🌐 **Company Website:** [wodwes.com](https://wodwes.com/)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=huzaifaikhlaq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaikhlaq&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=huzaifaikhlaq&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🎯 Currently Focused On
+
+My current development priorities include:
+
+- **Backend Architecture:** Designing more scalable, modular, and maintainable backend services.
+- **Performance Optimization:** Improving database queries, API response efficiency, and caching strategies.
+- **Application Security:** Strengthening authentication, authorization, validation, and API protection.
+- **Modern Frontend Development:** Expanding my expertise in Next.js and modern React architecture.
+- **Deployment & DevOps:** Improving Docker workflows and production deployment practices.
+- **Software Engineering Practices:** Writing cleaner, testable, and maintainable code.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in collaborating on web development projects, learning from experienced developers, and contributing to practical software solutions.
+I'm always interested in connecting with developers, collaborating on meaningful projects, and exploring opportunities to build reliable web applications.
 
-<p>
-  <a href="https://github.com/huzaifaikhlaq">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <a href="https://wodwes.com/">
-    <img src="https://img.shields.io/badge/WODWES-Visit_Website-0A66C2?style=for-the-badge" alt="WODWES Website" />
-  </a>
-</p>
+Whether you're working on a full-stack application, backend service, or an interesting open-source project, feel free to reach out.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huzaifaikhlaq)
+[![Featured Project](https://img.shields.io/badge/VOIRE-Live_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://clothing-website-frontend-opal.vercel.app/)
+[![WODWES](https://img.shields.io/badge/WODWES-Company_Website-0A66C2?style=for-the-badge)](https://wodwes.com/)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Building practical solutions, improving every day, and writing better code one project at a time.</i>
-</p>
+<div align="center">
+
+**Building reliable applications. Writing maintainable code. Continuously improving.**
+
+</div>
