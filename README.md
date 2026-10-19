@@ -1,4 +1,3 @@
-<!-- GitHub profile README | github.com/huzaifaikhlaq -->
 
 <div align="center">
 
