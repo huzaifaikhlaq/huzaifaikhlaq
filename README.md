@@ -97,7 +97,7 @@ Tools I use to build, ship, and maintain full-stack applications.
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="100%" align="center" valign="top">
       <h3>🎨 Frontend & UI</h3>
       <img
         src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,ts,js,tailwind,html,css,sass&perline=5"
