@@ -24,12 +24,8 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-I'm a full-stack developer with 1.5+ years of hands-on experience building web applications using React, Next.js, Vue, Nuxt, Node.js, Express, MongoDB, and TypeScript.
-
-I work across the product lifecycle, from customer-facing interfaces and APIs to database design, authentication, performance optimization, deployment, and practical AI integrations.
-⚡ Performance	🔐 Backend Engineering	🤖 Applied AI
-Reduced VOIRE product/API loading from ~5s to ~1s using Redis	REST APIs, JWT auth, role-based access, validation, and rate limiting	Resume feedback and ATS scoring with external AI models
-
+ I'm a full-stack developer with 1.5+ years of hands-on experience building web applications using React, Next.js, Vue, Nuxt, Node.js, Express, MongoDB, and TypeScript. 
+My work spans customer-facing interfaces, backend architecture, authentication, data management, performance optimization, and AI-powered features. I focus on building software that works well for users and is practical to maintain.
 
 <h2 align="center">🚀 Featured Projects</h2>
 <p align="center">Selected applications and the engineering decisions behind them.</p>
