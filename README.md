@@ -2,129 +2,166 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:123B68,100:2563EB&height=185&section=header&text=HUZAIFA%20IKHLAQ&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FULL-STACK%20DEVELOPER&descAlignY=62&descSize=17" width="100%" alt="Huzaifa Ikhlaq profile header" />
 
-<h1>Hi, I'm Huzaifa 👋</h1>
-
-<h3>Full-Stack Developer | MERN Stack | Vue & Nuxt | AI Integrations</h3>
+# Hi, there! 👋 I'm Huzaifa Ikhlaq
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3300&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&height=50&lines=Building+scalable+full-stack+applications;Turning+product+ideas+into+real+software;Engineering+reliable+APIs+and+intuitive+UX;Bringing+AI+into+practical+web+products" alt="Animated introduction" />
 
-<p><strong>From responsive interfaces and secure APIs to databases, deployment, and AI-powered features.</strong><br/>I build useful software with performance, maintainability, and real users in mind.</p>
+<p><em>From responsive interfaces and secure APIs to high-performance databases, seamless deployments, and AI-powered features.</em><br/>I build robust software designed for performance, maintainability, and exceptional user experiences.</p>
 
 <p>
-<a href="mailto:m.huzaifa.ikhlaq@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Huzaifa" /></a>
-<a href="https://github.com/huzaifaikhlaq?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" /></a>
-<a href="https://clothing-website-frontend-opal.vercel.app/"><img src="https://img.shields.io/badge/Live%20Project-Explore%20VOIRE-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="VOIRE live demo" /></a>
+  <a href="mailto:m.huzaifa.ikhlaq@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Huzaifa" />
+  </a>
+  <a href="https://github.com/huzaifaikhlaq?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" />
+  </a>
+  <a href="https://clothing-website-frontend-opal.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Project-Explore%20VOIRE-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="VOIRE live demo" />
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=huzaifaikhlaq&style=flat-square&color=2563EB&label=Profile+Views" alt="Profile views" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=huzaifaikhlaq&style=flat-square&color=2563EB&label=Profile+Views" alt="Profile views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-success?style=flat-square&logo=gitpod&logoColor=white" alt="Availability" />
+</p>
 
-<p>📍 <strong>Faisalabad, Pakistan</strong> &nbsp;·&nbsp; 💼 <strong>WODWES LLC</strong> &nbsp;·&nbsp; 🌍 <strong>Open to full-time & remote roles</strong></p>
+<p>📍 <strong>Faisalabad, Pakistan</strong> &nbsp;·&nbsp; 💼 <strong>WODWES LLC</strong> &nbsp;·&nbsp; 🌍 <strong>Open to Full-Time & Remote Roles</strong></p>
 
 </div>
 
-<h2 align="center">👨‍💻 About Me</h2>
+---
 
- I'm a full-stack developer with 1.5+ years of hands-on experience building web applications using React, Next.js, Vue, Nuxt, Node.js, Express, MongoDB, and TypeScript. 
-My work spans customer-facing interfaces, backend architecture, authentication, data management, performance optimization, and AI-powered features. I focus on building software that works well for users and is practical to maintain.
+## 👨‍💻 About Me
 
-| ⚡ Performance | 🔐 Backend Engineering | 🤖 Applied AI |
+I am a professional **Full-Stack Developer** with 1.5+ years of hands-on experience designing and delivering production-ready web applications using **React, Next.js, Vue, Nuxt, Node.js, Express, MongoDB, and TypeScript**. 
+
+My core expertise spans across customer-facing architectures, bulletproof backend APIs, advanced state management, performance tuning, and integrating modern AI capabilities into real-world products.
+
+| ⚡ Performance & Caching | 🔐 Backend Architecture | 🤖 Applied AI Solutions |
 | :--- | :--- | :--- |
-| Improved product/API loading from approximately 5s to 1s with Redis caching in VOIRE. | REST APIs, JWT authentication, role-based access, validation, and rate limiting. | AI-powered resume feedback and ATS scoring using external model providers. |
+| Boosted API and data loading speeds from ~5s to ~1s utilizing Redis caching, TTL, and cache invalidation strategies. | Architected RESTful APIs with JWT authentication, role-based access control (RBAC), validation, and rate limiting. | Integrated AI model providers for intelligent resume parsing, ATS scoring, and automated feedback loops. |
 
-<h2 align="center">🚀 Featured Projects</h2>
-<p align="center">Selected applications and the engineering decisions behind them.</p>
+---
 
-01. VOIRE | Full-Stack Fashion eCommerce
-A fashion retail platform with customer shopping journeys and administration features.
+## 🚀 Featured Projects
 
-<a href="https://clothing-website-frontend-opal.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Open%20App-0D9488?style=flat-square&logo=vercel&logoColor=white" alt="VOIRE demo" /></a>
-<a href="https://github.com/huzaifaikhlaq/clothing-website-frontend"><img src="https://img.shields.io/badge/Source%20Code-GitHub-334155?style=flat-square&logo=github&logoColor=white" alt="VOIRE source code" /></a>
+<div align="center">
+  <p><em>Explore selected high-impact applications and the architectural decisions behind them.</em></p>
+</div>
 
-Stack: React · Node.js · Express · MongoDB · Redux Toolkit · Redis · Docker
-- Built product, category, collection, cart, order, authentication, and admin features.
-- Designed Express/Mongoose REST APIs with JWT, role-based authorization, validation, filtering, and pagination.
-- Improved product/API loading from approximately 5 seconds to 1 second using Redis caching, TTL, and cache invalidation.
-- Created guest and authenticated carts with automatic merging after sign-in.
+### 01. VOIRE | Full-Stack Luxury Fashion eCommerce
+*A comprehensive retail platform featuring immersive shopping workflows and a robust administrative dashboard.*
+
+<p>
+  <a href="https://clothing-website-frontend-opal.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Open%20App-0D9488?style=flat-square&logo=vercel&logoColor=white" alt="VOIRE demo" /></a>
+  <a href="https://github.com/huzaifaikhlaq/clothing-website-frontend"><img src="https://img.shields.io/badge/Source%20Code-GitHub-334155?style=flat-square&logo=github&logoColor=white" alt="VOIRE source code" /></a>
+</p>
+
+> **Tech Stack:** React · Node.js · Express · MongoDB · Redux Toolkit · Redis · Docker · Cloudinary
+
+* Developed complete product, category, collection, cart, order processing, authentication, and admin modules.
+* Engineered secure Express/Mongoose REST APIs equipped with JWT verification, pagination, and robust filtering.
+* Optimized response latency significantly using Redis caching layers.
+* Implemented guest and authenticated shopping carts with intelligent automatic merging upon sign-in.
+
 <details>
-<summary><strong>🔎 View technical implementation</strong></summary>
+<summary><strong>🔎 View Technical Implementation Details</strong></summary>
 <br/>
 
-- Redis-backed rate limiting with configurable thresholds and HTTP 429 responses.
-- Product variants and consistent cart handling across authentication states.
-- Cloudinary integration for image management.
-- Dockerized React/Nginx frontend and Node.js backend.
+- Redis-backed rate-limiting middleware returning HTTP 429 status on threshold breaches.
+- Dynamic product variant handling and persistent cart syncing across sessions.
+- Containerized frontend (React/Nginx) and backend (Node.js) using Docker.
 </details>
 
+---
 
-02. Resume, CV & Email Signature Builder | SaaS-Style App
-A flexible document-building application with live previews, reusable templates, and useful AI assistance.
+### 02. Resume, CV & Email Signature Builder | SaaS Application
+*A flexible, feature-rich document builder featuring live previews, customizable templates, and AI-assisted optimization.*
 
-Stack: Nuxt 4 · Vue 3 · TypeScript · Pinia · Firebase · Puppeteer · Groq · OpenRouter
-- Built resume and email signature editors with customizable templates, draggable sections, and live previews.
-- Implemented PDF/DOCX imports and server-side A4 PDF generation.
-- Integrated AI model APIs for ATS scoring and resume feedback.
-- Used Firebase Authentication, Firestore, and Pinia for accounts, saved documents, and application state.
+> **Tech Stack:** Nuxt 4 · Vue 3 · TypeScript · Pinia · Firebase · Puppeteer · Groq · OpenRouter
+
+* Built intuitive resume and email signature editors with draggable layouts and real-time preview rendering.
+* Integrated document import capabilities (PDF/DOCX) alongside server-side A4 PDF generation.
+* Connected AI model APIs for automated applicant tracking system (ATS) scoring and resume grading.
+* Leveraged Firebase Authentication, Firestore, and Pinia stores for user accounts and data persistence.
+
 <details>
-<summary><strong>🔎 View technical implementation</strong></summary>
+<summary><strong>🔎 View Technical Implementation Details</strong></summary>
 <br/>
 
-- PDF.js and Mammoth for PDF and DOCX import.
-- Nuxt/Nitro with Puppeteer for server-side PDF generation.
-- Rich-text editing tools and reusable document components.
-- Integrations with Groq, OpenRouter, Hugging Face, and related providers.
+- Utilized PDF.js and Mammoth for robust client-side document parsing.
+- Configured Nuxt/Nitro server endpoints running Puppeteer for high-fidelity PDF exports.
+- Integrated custom rich-text editing components and multi-provider AI connectors (Groq, OpenRouter, Hugging Face).
 </details>
 
-<h2 align="center">🧰 Tech Stack & Tools</h2>
-<p align="center">Technologies I use to build, test, and deliver full-stack applications.</p>
+---
+
+## 🧰 Tech Stack & Tools
 
 <div align="center">
 
-<h3>🎨 Frontend & UI</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,ts,js,tailwind,html,css,sass&perline=10" alt="Frontend technology icons" />
-<p>React · Next.js · Vue · Nuxt · TypeScript · JavaScript · Tailwind CSS · HTML · CSS · SCSS</p>
+### 🎨 Frontend & UI
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,ts,js,tailwind,html,css,sass&perline=10" alt="Frontend tools" />
+<p><strong>React · Next.js · Vue · Nuxt · TypeScript · JavaScript · Tailwind CSS · HTML5 · CSS3 · SCSS</strong></p>
 
-<h3>⚙️ Backend & Databases</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,redis&perline=5" alt="Backend technology icons" />
-<p>Node.js · Express · MongoDB · Mongoose · Firebase · Redis · REST APIs</p>
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,redis&perline=5" alt="Backend tools" />
+<p><strong>Node.js · Express.js · MongoDB · Mongoose · Firebase · Redis · RESTful APIs</strong></p>
 
-<h3>🚀 DevOps & Workflow</h3>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vercel,postman,vscode&perline=7" alt="Developer tools" />
-<p>Docker · GitHub Actions · CI/CD · Git · GitHub · Vercel · Postman · VS Code</p>
+### 🚀 DevOps, Tools & Workflow
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vercel,postman,vscode&perline=7" alt="DevOps tools" />
+<p><strong>Docker · GitHub Actions · CI/CD Pipelines · Git · GitHub · Vercel · Postman · VS Code</strong></p>
 
-<h3>🤖 State Management & AI</h3>
-<img src="https://skillicons.dev/icons?i=redux,pinia&perline=2" alt="State management technology icons" />
-<p>Redux Toolkit · Pinia · Groq · OpenRouter · Hugging Face · Locally Hosted AI Models</p>
+### 🤖 State Management & AI Integration
+<img src="https://skillicons.dev/icons?i=redux,pinia&perline=2" alt="State management" />
+<p><strong>Redux Toolkit · Pinia · Groq API · OpenRouter · Hugging Face Inference · LLM Prompts</strong></p>
 
 </div>
 
-<h2 align="center">💼 Professional Experience</h2>
+---
 
-MERN Stack Developer | WODWES LLC
-March 2025 to Present · Faisalabad, Pakistan
+## 💼 Professional Experience
 
-Building and maintaining full-stack applications with React, Vue, Nuxt, Node.js, Express, and MongoDB. My work includes reusable UI, REST APIs, database models, state management, authentication, third-party and AI integrations, debugging, performance optimization, and deployment workflows.
-<h2 align="center">📈 GitHub Activity</h2>
+### MERN Stack Developer | **WODWES LLC**
+📅 *March 2025 – Present* &nbsp;·&nbsp; 📍 *Faisalabad, Pakistan*
+
+* Building and maintaining full-stack web applications across React, Vue, Nuxt, Node.js, Express, and MongoDB.
+* Delivering reusable UI components, bulletproof REST APIs, database schemas, complex state management, and secure authentication workflows.
+* Handling third-party integrations, AI-powered features, performance bottlenecks, debugging, and production deployments.
+
+---
+
+## 📈 GitHub Activity & Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=huzaifaikhlaq&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="GitHub overview" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaikhlaq&layout=compact&hide_border=true&theme=github_dark" height="165" alt="GitHub languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=huzaifaikhlaq&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="GitHub overview stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaikhlaq&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Top languages" />
 
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifaikhlaq&theme=github-compact&hide_border=true&area=true" width="98%" alt="GitHub contribution activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifaikhlaq&theme=github-compact&hide_border=true&area=true" width="98%" alt="GitHub contribution activity graph" />
 
-<sub>Stats widgets are operated by third-party services and may sometimes be unavailable. Language charts reflect public repositories, not overall proficiency.</sub>
+<small><sub>Stats widgets are rendered via third-party services and reflect public repositories.</sub></small>
+
 </div>
+
+---
 
 <div align="center">
 
 <h2>🤝 Let's Connect</h2>
 
-<p>Have a full-stack opportunity, a product idea, or an interesting engineering challenge?<br/><strong>I'd be glad to connect.</strong></p>
+<p>Have an exciting full-stack role, a product idea, or a challenging technical problem to solve?<br/><strong>I'd love to hear from you!</strong></p>
 
-<a href="mailto:m.huzaifa.ikhlaq@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-Send%20an%20Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
-<a href="https://github.com/huzaifaikhlaq?tab=repositories"><img src="https://img.shields.io/badge/Explore-More%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="More projects" /></a>
-<p><sub>Thanks for visiting! Explore my repositories to see what I'm building.</sub></p>
+<p>
+  <a href="mailto:m.huzaifa.ikhlaq@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-Send%20an%20Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="https://github.com/huzaifaikhlaq?tab=repositories"><img src="https://img.shields.io/badge/Explore-More%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="More repositories" /></a>
+</p>
+
+<p><sub>Thanks for stopping by! Feel free to explore my repositories. ✨</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,55:123B68,100:0D1117&height=110&section=footer" width="100%" alt="Footer wave" />
 
