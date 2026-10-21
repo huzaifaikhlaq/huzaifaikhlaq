@@ -142,7 +142,6 @@ My core expertise spans across customer-facing architectures, bulletproof backen
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifaikhlaq&theme=github-compact&hide_border=true&area=true" width="98%" alt="GitHub contribution activity graph" />
 
 <small><sub>Stats widgets are rendered via third-party services and reflect public repositories.</sub></small>
 
