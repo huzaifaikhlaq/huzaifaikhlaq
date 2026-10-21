@@ -143,7 +143,6 @@ My core expertise spans across customer-facing architectures, bulletproof backen
 <br/><br/>
 
 
-<small><sub>Stats widgets are rendered via third-party services and reflect public repositories.</sub></small>
 
 </div>
 
